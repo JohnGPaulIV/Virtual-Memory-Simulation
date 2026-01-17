@@ -45,7 +45,7 @@ environment.
 ---
 
 ## File Structure
-
+```bash
 .
 ├── inputs/
 │ └── *.o # Test Mini-ELF object files
@@ -80,3 +80,4 @@ Before running the simulator, compile the program using:
 
 ```bash
 make
+
