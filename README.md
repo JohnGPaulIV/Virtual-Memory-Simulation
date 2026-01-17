@@ -80,4 +80,5 @@ Before running the simulator, compile the program using:
 
 ```bash
 make
-
+```
+while in the parent directory.
